@@ -3,6 +3,10 @@ Los Angeles, CA
 www.armanvakili.com
 For contact use: armantheautomator@gmail.com
 
+The SHA256 Hash value of the collatz.py file is: 84e7c92ad82368a19a3aae0808407e94990c2f7b17873628f463aea8f5200b48
+
+If the hash value is at all different from the value above, the file has been altered.
+
 **********
 Collatz Conjecture
 **********
